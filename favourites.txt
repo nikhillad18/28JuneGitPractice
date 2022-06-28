@@ -1,3 +1,10 @@
+<<<<<<< HEAD
 MexicanFries
 Mountain Dew
 Chicken Shwarma
+=======
+Andhadhun
+Newton
+Xmen Storm
+Xmen Cyclops
+>>>>>>> movies
